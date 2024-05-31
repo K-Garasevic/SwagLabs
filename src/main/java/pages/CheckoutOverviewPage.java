@@ -13,5 +13,4 @@ public class CheckoutOverviewPage {
     public void clickOnFinishButton (){
         driver.findElement(finishButton).click();
     }
-
 }
